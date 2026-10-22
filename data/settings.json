@@ -1,0 +1,12 @@
+{
+  "mirror": "bmclapi",
+  "customMirrorUrl": "https://bmclapi2.bangbang93.com",
+  "nickname": "LiquidSteve",
+  "memoryMin": 2,
+  "memoryMax": 6,
+  "javaPath": "java",
+  "theme": "emerald-glass",
+  "windowWidth": 1280,
+  "windowHeight": 720,
+  "autoCloseLauncher": false
+}

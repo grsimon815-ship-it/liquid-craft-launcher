@@ -1,0 +1,27 @@
+[
+  {
+    "id": "inst-1",
+    "name": "Vanilla Liquid 1.21.4",
+    "version": "1.21.4",
+    "type": "release",
+    "loader": "vanilla",
+    "installed": true,
+    "lastPlayed": "Только что проверено",
+    "totalTime": "1 ч. 10 мин.",
+    "icon": "cube",
+    "mirrorSource": "Европейское зеркало (BMCLAPI Direct CDN)"
+  },
+  {
+    "id": "inst-2",
+    "name": "Fabric 1.20.1 Shaders & FPS",
+    "version": "1.20.1",
+    "type": "release",
+    "loader": "fabric",
+    "installed": true,
+    "lastPlayed": "Вчера, 22:40",
+    "totalTime": "32 ч. 05 мин.",
+    "icon": "sparkles",
+    "mirrorSource": "Европейское зеркало (BMCLAPI Direct CDN)",
+    "modsCount": 18
+  }
+]

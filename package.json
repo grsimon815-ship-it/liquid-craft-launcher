@@ -1,0 +1,24 @@
+{
+  "name": "liquid-craft-launcher",
+  "version": "1.0.0",
+  "description": "Ultra-aesthetic Minecraft desktop launcher with Liquid Glass UI, BMCLAPI non-Mojang mirror downloads, and integrated Modrinth browser",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "app": "electron .",
+    "web": "node server.js"
+  },
+  "keywords": [
+    "minecraft",
+    "launcher",
+    "liquid-glass",
+    "modrinth",
+    "bmclapi",
+    "electron"
+  ],
+  "author": "Antigravity",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}

@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Large game binaries and client caches (should not be in git)
+data/minecraft/versions/
+data/minecraft/libraries/
+data/minecraft/assets/
+data/minecraft/instances/
+
+# Logs & temp files
+*.log
+crash-reports/
+.DS_Store
+Thumbs.db
