@@ -88,7 +88,7 @@
 ### Способ 1: Запуск готового приложения
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/QNIX-Dev/liquid-craft-launcher.git
+   git clone https://github.com/grsimon815-ship-it/liquid-craft-launcher.git
    cd liquid-craft-launcher
    ```
 2. Установите зависимости:
